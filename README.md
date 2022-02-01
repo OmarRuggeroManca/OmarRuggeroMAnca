@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 this README section is a work in progress! 😄
 
 <!--
 **OmarRuggeroManca/OmarRuggeroMAnca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
